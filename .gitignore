@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+_site/
+.DS_Store
+node_modules/
+data/
+results/
+*.wav
+.env
+.env.*

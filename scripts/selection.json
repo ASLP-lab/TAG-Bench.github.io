@@ -1,0 +1,130 @@
+[
+  {
+    "id": "tagbench-0005",
+    "audio_file": "533-131556-0004.wav",
+    "title": {
+      "en": "A single word",
+      "zh": "一个词的瞬间"
+    }
+  },
+  {
+    "id": "tagbench-0126",
+    "audio_file": "367-130732-0000.wav",
+    "title": {
+      "en": "The same word, twice",
+      "zh": "同一个词，两次出现"
+    }
+  },
+  {
+    "id": "tagbench-0287",
+    "audio_file": "Wildlife_28500_29100.wav",
+    "title": {
+      "en": "Rain on a tent",
+      "zh": "雨落在帐篷上"
+    }
+  },
+  {
+    "id": "tagbench-0534",
+    "audio_file": "Istanbul_20520_21120.wav",
+    "title": {
+      "en": "Eighteen metal clinks",
+      "zh": "18 次金属碰撞"
+    }
+  },
+  {
+    "id": "tagbench-0673",
+    "audio_file": "Istanbul_17540_18140.wav",
+    "title": {
+      "en": "A door opens and closes",
+      "zh": "门的开与关"
+    }
+  },
+  {
+    "id": "tagbench-0653",
+    "audio_file": "Wildlife_1090_1690.wav",
+    "title": {
+      "en": "Drops of water",
+      "zh": "水滴落下"
+    }
+  },
+  {
+    "id": "tagbench-0887",
+    "audio_file": "emotion_000012_ca5d5e7dc1.wav",
+    "title": {
+      "en": "Joy and enthusiasm",
+      "zh": "喜悦与热情"
+    }
+  },
+  {
+    "id": "tagbench-0910",
+    "audio_file": "emotion_000014_0779d9f96c.wav",
+    "title": {
+      "en": "Amusement about a game",
+      "zh": "聊游戏时的愉悦"
+    }
+  },
+  {
+    "id": "tagbench-1098",
+    "audio_file": "semantic_000257_9ce0fbc5ad.wav",
+    "title": {
+      "en": "Creating a positive learning environment",
+      "zh": "营造积极的学习环境"
+    }
+  },
+  {
+    "id": "tagbench-1131",
+    "audio_file": "semantic_000299_b7f134d068.wav",
+    "title": {
+      "en": "A game borrows an idea",
+      "zh": "游戏设计的借鉴"
+    }
+  },
+  {
+    "id": "tagbench-1151",
+    "audio_file": "keyword_000102_13b73f5cda.wav",
+    "title": {
+      "en": "Naming the podcast",
+      "zh": "播客名称出现在哪里"
+    }
+  },
+  {
+    "id": "tagbench-1241",
+    "audio_file": "keyword_000283_274252c9ff.wav",
+    "title": {
+      "en": "Raising a service dog",
+      "zh": "服务犬幼犬训练"
+    }
+  },
+  {
+    "id": "tagbench-1376",
+    "audio_file": "semantic_000126_28945b6af7_15to20min.wav",
+    "title": {
+      "en": "Main vocals and lead vocals",
+      "zh": "两种主唱角色的区别"
+    }
+  },
+  {
+    "id": "tagbench-1370",
+    "audio_file": "semantic_000118_cb35f47539_15to20min.wav",
+    "title": {
+      "en": "Why a tournament moved",
+      "zh": "比赛为什么改期"
+    }
+  },
+  {
+    "id": "tagbench-1583",
+    "audio_file": "long_sound_desc_0093_Istanbul_17540_18140.wav",
+    "title": {
+      "en": "A door inside twenty minutes",
+      "zh": "20 分钟录音中的门声"
+    }
+  },
+  {
+    "id": "tagbench-1563",
+    "audio_file": "long_sound_desc_0073_Wildlife_1090_1690.wav",
+    "title": {
+      "en": "Water drops in a long recording",
+      "zh": "长录音里的水滴"
+    }
+  }
+]
